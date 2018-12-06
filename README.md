@@ -20,5 +20,4 @@ Tel:0788358969
 mail:naiglyme1@gmail.com
 ### License
 * MIT License
-Copyright (c) {2018} 
-NAIMA NIYIGENA
+* Copyright (c) 2018 NAIMA NIYIGENA
