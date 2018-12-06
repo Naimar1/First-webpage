@@ -16,8 +16,8 @@ there is no error, by mistake if ypo find it please contact me for the below add
 I use html language only
 ## Support and contact details
 Don't hesitate to contact me if you get a confusion or any other question,suggestion etc
-Tel:0788358969
-mail:naiglyme1@gmail.com
+* Tel:0788358969
+* email:naiglyme1@gmail.com
 ### License
 * MIT License
 * Copyright (c) 2018 NAIMA NIYIGENA
